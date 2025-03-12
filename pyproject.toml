@@ -12,6 +12,16 @@ flax = "0.8.2"
 ott-jax = "0.4.6"
 clu = "0.0.12"
 tqdm = "^4.66.2"
+jax = "0.4.23"
+jaxlib = "0.4.23"
+numpy = "1.25.0"
+optax = "0.2.1"
+chex = "0.1.81"
+scipy= "1.12.0"
+colorcet = "3.1.0"
+scikit-image = "0.24.0"
+scanpy = "1.10.0"
+tensorflow = "2.16.1"
 
 [build-system]
 requires = ["poetry-core"]
